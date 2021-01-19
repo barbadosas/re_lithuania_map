@@ -1,4 +1,4 @@
-# Real Estaet Listings map of Lithuania
+# Real Estate Listings map of Lithuania
 
 lithuania_estate.geojson displayes real estate listing information from Aruodas.lt.
 
